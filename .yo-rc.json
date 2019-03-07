@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "EPI-USE America",
+      "license": "none",
+      "author": "Austin McNicholas",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
